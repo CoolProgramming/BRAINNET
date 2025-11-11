@@ -5,7 +5,7 @@ Please cite our paper: ["Glioblastoma Tumor Segmentation using an Ensemble of Vi
 ![Project Splash Image](/img/general/project_splash_img.png)
 
 ## Team Members
-Huafeng Liu, Ben Dowdell, Todd Engelder, Nicolas Oso, Keith Pulmano, Arko Barman
+Huafeng Liu, Zida Wang, Ben Dowdell, Todd Engelder, Nicolas Oso, Keith Pulmano, Arko Barman
 
 ## Contents
 
